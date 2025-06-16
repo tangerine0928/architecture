@@ -1,4 +1,5 @@
 pip install openai
+pip install streamlit
 import streamlit as st
 import openai  # DALL·E API 호출용
 
