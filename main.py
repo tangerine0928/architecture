@@ -8,19 +8,19 @@ posts = [
         "title": "고딕 건축의 특징과 역사",
         "category": "역사적 건축물",
         "content": "고딕 건축은 첨탑과 스테인드글라스가 특징입니다...",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Notre_Dame_de_Paris_2013-07-24.jpg"
+        "image": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%94%95_%EB%AF%B8%EC%88%A0#/media/%ED%8C%8C%EC%9D%BC:K%C3%B6lner_Dom_nachts_2013.jpg"
     },
     {
         "title": "친환경 건축 디자인 트렌드",
         "category": "친환경 건축",
         "content": "최근 건축에서는 태양광 패널, 녹색 지붕 등 친환경 요소가 중요해졌습니다...",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_roof_on_the_building_in_The_Hague_01.jpg"
+        "image": "https://www.marketresearchintellect.com/images/blogs/greening-urban-spaces-trends-in-modular-green-roof-systems.webp"
     },
     {
         "title": "현대 브루탈리즘의 매력",
         "category": "현대 건축",
         "content": "브루탈리즘은 거친 콘크리트 외관과 단순한 기하학적 형태가 특징입니다...",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bruce_Robinson_Brutalism.jpg"
+        "image": "https://i.namu.wiki/i/hnAyWBio4IZtxTpIaAS0wDgdfAGIVeFtvExBRKZDpeUqqDkwXBHiUYJ1f2NWzdTPT0Vo85Mv4VtUJ6oAf6jq6A.webp"
     }
 ]
 
