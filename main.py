@@ -41,5 +41,5 @@ filtered_posts = [
 # 포스트 목록 보여주기
 for idx, post in enumerate(filtered_posts):
     with st.expander(f"{post['title']} [{post['category']}]"):
-        st.image(post["image"], use_column_width=True)
+        st.image(post["image"], use_container_width=True)
         st.write(post["content"])
