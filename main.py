@@ -8,7 +8,7 @@ posts = [
         "title": "고딕 건축의 특징과 역사",
         "category": "역사적 건축물",
         "content": "고딕 건축은 첨탑과 스테인드글라스가 특징입니다...",
-        "image": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%94%95_%EB%AF%B8%EC%88%A0#/media/%ED%8C%8C%EC%9D%BC:K%C3%B6lner_Dom_nachts_2013.jpg"
+        "image": "https://i.namu.wiki/i/pbKKu-ou5mObGlAOUNPuz_7URrEG0SjaxvtE1uQXICpp2xXBEH7f8MdGS0Ww2xxQyNloWILu5dfekxv6UpsKQln-2ifwFpW_1QcoxGHogKymUVmSBT-FM4CbXnmYaR3h-vA51MIVpjPRjwm62aMKLQ.jpg"
     },
     {
         "title": "친환경 건축 디자인 트렌드",
